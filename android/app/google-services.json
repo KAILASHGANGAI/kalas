@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "556830961089",
+    "firebase_url": "https://kalas1-2fb16.firebaseio.com",
+    "project_id": "kalas1-2fb16",
+    "storage_bucket": "kalas1-2fb16.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:556830961089:android:df237476744f85448f1340",
+        "android_client_info": {
+          "package_name": "com.example.kalas1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "556830961089-t5lbbg1vpi79anneknthp0313354l5lh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kalas1",
+            "certificate_hash": "c02f9d2b3b008e3ac00f03fd96f1e3aaad45af1c"
+          }
+        },
+        {
+          "client_id": "556830961089-lnll4l6pvlkkmbhvgq66j56orinic19i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKreFlBj-mEwKkKnN96kR1HwUBM8kpBBE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "556830961089-lnll4l6pvlkkmbhvgq66j56orinic19i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
